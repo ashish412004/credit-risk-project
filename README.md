@@ -27,3 +27,7 @@ This project processes over 1.3 million loan records to build a professional-gra
 ## 👨‍💻 Author
 **Ashish Shukla**
 RA2311027010182
+<img width="1907" height="1037" alt="image" src="https://github.com/user-attachments/assets/47518ea7-6cec-4eda-9907-a80877384ca6" />
+<img width="1910" height="1033" alt="image" src="https://github.com/user-attachments/assets/d27795fc-11a4-4648-a11d-b7d43bfb5d9a" />
+<img width="1902" height="1031" alt="image" src="https://github.com/user-attachments/assets/434f2bbf-f79f-428e-99ad-621dd3745eb4" />
+
